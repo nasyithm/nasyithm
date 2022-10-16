@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, Design and Networking
 - 🌱 I’m currently learning Frontend Developer
 - 💞️ I’m looking to collaborate on Any Projects I Can
-- 📫 How to reach me ...
+- 📫 How to reach me on IG : @nasyith.m
 
 [![@nasyithm's Holopin board](https://holopin.me/nasyithm)](https://holopin.io/@nasyithm)
 
