@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @nasyithm
+# 👋 Hi, I’m NasyithM
 - 👀 I’m interested in Programming, Design and Networking
 - 🌱 I’m currently learning Frontend Developer
 - 💞️ I’m looking to collaborate on Any Projects I Can
