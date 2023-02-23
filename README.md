@@ -4,7 +4,7 @@
 💞️ I’m looking to collaborate on *Any Interesting Projects I Can*  
 
 **📫 How to reach me on** 
-- [LinkedIn](https://www.linkedin.com/in/nasyithm/)
+- [LinkedIn](https://linkedin.com/in/nasyithm/)
 - [Twitter](https://twitter.com/nasyith_m/)
 
 **GitHub Statistic**
